@@ -1,0 +1,231 @@
+DIMENSI	Lebar Jejak Belakang	wheel	overall-width
+KEMUDI	Tipe	wheel	steering-type
+RODA & BAN	Jumlah Ban	wheel	tire-count
+RODA & BAN	Ukuran Ban	wheel	tire-size
+RODA & BAN	Ukuran Rim	wheel	velg-size
+BAN	Model Ban	wheel	type
+BAN	Ukuran Ban	wheel	tire-size
+BAN	Ukuran Velg	wheel	velg-size
+CHASIS & DRIVE TRAIN	Spare Tire	wheel	spare-tire
+CHASIS & DRIVE TRAIN	Tire	wheel	type
+CHASIS & DRIVE TRAIN	Wheels	wheel	rim
+RODA	 Ban 	wheel	tire
+RODA	 Roda 	wheel	wheel
+RODA	 Velg 	wheel	velg
+SETIR	 Tipe 	wheel	steering-type
+KOPLING	Diameter Cakram	transmission	coupling
+SUMBU	Perbandingan Gigi Akhir	transmission	final-gear-ratio
+TRANSMISI	C	transmission	crawler
+TRANSMISI	Ke-1	transmission	1st
+TRANSMISI	Ke-2	transmission	2nd
+TRANSMISI	Ke-3	transmission	3rd
+TRANSMISI	Ke-4	transmission	4th
+TRANSMISI	Ke-5	transmission	5th
+TRANSMISI	Ke-6	transmission	6th
+TRANSMISI	Ke-7	transmission	7th
+TRANSMISI	Ke-8	transmission	8th
+TRANSMISI	Mundur	transmission	reverse
+TRANSMISI	Perbandingan gigi	transmission	gear-ratio
+TRANSMISI	Tipe	transmission	type
+CHASIS & DRIVE TRAIN	Gear Ratio Final Gear	transmission	final-gear-ratio
+CHASIS & DRIVE TRAIN	Gear Ration 1	transmission	1st
+CHASIS & DRIVE TRAIN	Gear Ration 2	transmission	2nd
+CHASIS & DRIVE TRAIN	Gear Ration 3	transmission	3rd
+CHASIS & DRIVE TRAIN	Gear Ration 4	transmission	4th
+CHASIS & DRIVE TRAIN	Gear Ration 5	transmission	5th
+CHASIS & DRIVE TRAIN	Gear Ration 6	transmission	6th
+CHASIS & DRIVE TRAIN	Gear Ration Reverse	transmission	reverse
+CHASIS & DRIVE TRAIN	Model	transmission	type
+CHASIS & DRIVE TRAIN	Transmission	transmission	type
+TRANSMISI	1st	transmission	1st
+TRANSMISI	2nd	transmission	2nd
+TRANSMISI	3rd	transmission	3rd
+TRANSMISI	4th	transmission	4th
+TRANSMISI	5th	transmission	5th
+TRANSMISI	6th	transmission	6th
+TRANSMISI	7th	transmission	7th
+TRANSMISI	8th	transmission	8th
+TRANSMISI	9th	transmission	9th
+TRANSMISI	Final Gear Ratio	transmission	final-gear-ratio
+TRANSMISI	Mundur / Rev	transmission	reverse
+TRANSMISI	Rendah / Low	transmission	low
+TRANSMISI	Tipe	transmission	type
+AS	 Perbandingan gigi akhir 	transmission	final-gear-ratio
+TRANMISI	 Kopeling 	transmission	coupling
+TRANMISI	 Model 	transmission	model
+TRANMISI	 Perbandingan gigi 	transmission	ratio
+TRANMISI	 Tipe 	transmission	type
+TRANSMISI	 Kopeling 	transmission	coupling
+TRANSMISI	 Model 	transmission	model
+TRANSMISI	 Perbandingan gigi 	transmission	ratio
+TRANSMISI	 Tipe 	transmission	type
+SUSPENSI	Depan & Belakang	suspension	front-rear-suspension
+CHASIS & DRIVE TRAIN	Suspension Front	suspension	front-suspension
+CHASIS & DRIVE TRAIN	Suspension Rear	suspension	rear-suspension
+SUSPENSION	Belakang	suspension	rear-suspension
+SUSPENSION	Depan	suspension	front-suspension
+SUSPENSI	 Belakang 	suspension	rear-suspension
+SUSPENSI	 Depan 	suspension	front-suspension
+KEMUDI	Minimal Radius Putar	performance	minimum-turning-radius
+PERFORMA	Daya Tanjak	performance	climbing-capacity
+PERFORMA	Kecepatan Maksimum	performance	max-speed
+DIMENSI	Min Turning Radius	performance	minimum-turning-radius
+PERFORMA	Daya Tanjak	performance	climbing-capacity
+PERFORMA	Kecepatan Maksimal	performance	max-speed
+PERFORMA	Radius Putar	performance	turning-radius
+KEMAMPUAN	 Daya tanjak dengan max G.V.W 	performance	climbing-capacity
+KEMAMPUAN	 Kecepatan maksimum 	performance	max-speed
+KEMAMPUAN	 Radius putar minimum 	performance	minimum-turning-radius
+MESIN	 Daya maksimum 	performance	max-power
+APLIKASI	Gambar	misc	picture
+COMFORT	Audio	misc	audio
+COMFORT	Central Door Lock	misc	central-door-lock
+COMFORT	Multi Information Display	misc	multi-information-display
+COMFORT	Power Mirror Adjuster	misc	power-mirror-adjuster
+COMFORT	Power Window	misc	power-window
+COMFORT	Seat Material	misc	seat-material
+COMFORT	Side Step	misc	side-step
+COMFORT	Tilt & Telescopic	misc	tilt-telescopic
+COMFORT	Tow Hook Front	misc	tow-hook-front
+COMFORT	Tow Hook Rear	misc	tow-hook-rear
+EXTERIOR	DRL	misc	drl
+EXTERIOR	Front Fog Lamp	misc	front-fog-lamp
+EXTERIOR	Front Wipper	misc	front-wipper
+EXTERIOR	Head Lamp	misc	head-lamp
+EXTERIOR	Rear Defoger	misc	rear-defoger
+EXTERIOR	Rear Lamp	misc	rear-lamp
+EXTERIOR	Rear Wipper	misc	rear-wipper
+FITUR TAMBAHAN	Fitur Tambahan	misc	extra-feature
+FITUR TAMBAHAN	Kamera Mundur	misc	reverse-camera
+FITUR TAMBAHAN	Perlindungan Garansi	misc	garansi
+SAFETY	ABS + EBD	misc	abs+ebd
+SAFETY	Airbags	misc	airbag
+SAFETY	Electronic Stability Control	misc	electronic-stability-control
+SAFETY	Emergency Stop Signal	misc	emergency-stop-signal
+SAFETY	Follow Me Home Handlamp	misc	follow-me-home-headlamp
+SAFETY	Hill Descent Control	misc	hill-descent-contriol
+SAFETY	Hill Start Assist	misc	hill-start-assist
+SAFETY	Immobilizer	misc	immobilizer
+SAFETY	Rear Camera	misc	reverse-camera
+SAFETY	Traction Control System	misc	traction-control-system
+TANGKI SOLAR	Kapasitas	fuel	capacity
+MODEL MESIN	Daya Maksimum	engine	max-power
+MODEL MESIN	Daya maksimum	engine	max-power
+MODEL MESIN	Diameter x Langkah Piston	engine	diameter-stroke
+MODEL MESIN	Isi Silinder	engine	cylinder
+MODEL MESIN	Jumlah silinder	engine	cylinder-n
+MODEL MESIN	Model	engine	model
+MODEL MESIN	Model Tipe	engine	type
+MODEL MESIN	Tenaga Maksimum	engine	max-torque
+MESIN	Bore x Stroke	engine	bore-stroke
+MESIN	Daya Maksimum	engine	max-power
+MESIN	Diameter x Langkah	engine	diameter-stroke
+MESIN	Displacement	engine	displacement
+MESIN	Fuel System	engine	fuel-system
+MESIN	Fuel Type	engine	fuel-type
+MESIN	Max Power	engine	max-power
+MESIN	Max Torque	engine	max-torque
+MESIN	Model Mesin	engine	model
+MESIN	Sistem Emisi	engine	emmision-type
+MESIN	Torsi Maksimum	engine	max-torque
+MESIN	Type	engine	type
+MESIN	Volume Silinder Piston	engine	piston-volume
+MESIN	 Diameter X langkah 	engine	diameter-stroke
+MESIN	 Isi S silinder 	engine	s-cylinder
+MESIN	 Isi Silinder 	engine	s-cylinder
+MESIN	 Jumlah silinder 	engine	cylinder-n
+MESIN	 Model 	engine	model
+MESIN	 Tipe 	engine	type
+MESIN	 Torsi maksimum 	engine	max-torque
+SISTIM LISTRIK ACCU	Accu	electrical	battery
+KELISTRIKAN	Aki / Accu	electrical	battery
+KELISTRIKAN	Alternator	electrical	alternator
+SISTEM KELISTRIKAN	 Accu 	electrical	battery
+SISTEM KELISTRIKAN	 Accu (Battery) 	electrical	battery
+SISTEM KELISTRIKAN	 Tegangan 	electrical	voltage
+DIMENSI	Julur Belakang	dimension	rear-over-hang
+DIMENSI	Julur Depan	dimension	front-over-hang
+DIMENSI	Kabin Kesumbu Roda Belakang	dimension	cabin-to-end
+DIMENSI	Total Panjang	dimension	overall-width
+DIMENSI	Total Tinggi	dimension	overall-height
+DIMENSI	Cabin to End ( CE )	dimension	cabin-to-end
+DIMENSI	Cargo Height	dimension	cargo-height
+DIMENSI	Cargo Length	dimension	cargo-length
+DIMENSI	Cargo Width	dimension	cargo-width
+DIMENSI	Clearence Height	dimension	clearance-height
+DIMENSI	Curb Weight	dimension	curb-height
+DIMENSI	Jarak Sumbu / Wheel Base (WB)	dimension	wheel-base
+DIMENSI	Jarak Terendah ke Tanah / Min. Clearence (HH)	dimension	clearance-height
+DIMENSI	Julur Belakang / Rear Over Hang (ROH)	dimension	rear-over-hang
+DIMENSI	Julur Depan / Front Over Hang (FOH)	dimension	front-over-hang
+DIMENSI	Kapasitas Penumpang Termasuk Pengemudi	dimension	seating-capacity
+DIMENSI	Lebar / Over all Width (OW)	dimension	overall-width
+DIMENSI	Lebar Kargo Bagian Dalam	dimension	cargo-width
+DIMENSI	Overall Height	dimension	overall-height
+DIMENSI	Overall Length	dimension	overall-length
+DIMENSI	Overall Width	dimension	overall-width
+DIMENSI	Panjang / Over all Length (OAL)	dimension	overall-length
+DIMENSI	Panjang Kargo Bagian Dalam	dimension	cargo-length
+DIMENSI	Seating Capacity	dimension	seating-capacity
+DIMENSI	Tinggi / Over all Height (OH)	dimension	overall-height
+DIMENSI	Tinggi Kargo Bagian Dalam	dimension	cargo-height
+DIMENSI	Wheelbase	dimension	wheel-base
+KAPASITAS BAHAN BAKAR	Kapasitas Tangki	dimension	fuel-tank-capacity
+DIMENSI	 Cab to End 	dimension	cabin-to-end
+DIMENSI	 Jarak Sumbu Roda 	dimension	wheel-base
+DIMENSI	 Jarak roda belakang kiri-kanan 	dimension	rear-wheel-distance
+DIMENSI	 Jarak roda depan kiri-kanan 	dimension	front-wheel-distance
+DIMENSI	 Lebar Keseluruhan 	dimension	overall-width
+DIMENSI	 Lebar keseluruhan 	dimension	overall-width
+DIMENSI	 Panjang Keseluruhan 	dimension	overall-length
+DIMENSI	 Tinggi Minimal dari Tanah 	dimension	ground-min-height
+DIMENSI	 Tinggi keseluruhan 	dimension	overall-height
+DIMENSI	 Tinggi minimal dari tanah 	dimension	ground-min-height
+KAPASITAS BAHAN BAKAR	 Tangki 	dimension	fuel-tank-capacity
+KAPASITAS PENGEMUDI	 Kabin pengemudi 	dimension	seating-capacity
+BERAT CHASSIS	Belakang	chassis-drivetrain	rear-vehicle-weight
+BERAT CHASSIS	Berat Kosong	chassis-drivetrain	empty-vehicle-weight
+BERAT CHASSIS	Berat Total Kendaraan	chassis-drivetrain	gross-vehicle-weight
+BERAT CHASSIS	Berat Total Kombinasi	chassis-drivetrain	combination-vehicle-weight
+BERAT CHASSIS	Depan	chassis-drivetrain	front-vehicle-weight
+BERAT CHASSIS	Wheel Configuration	chassis-drivetrain	wheel-configuration
+DIMENSI	Jarak Sumbu Roda	chassis-drivetrain	wheel-base
+DIMENSI	Lebar Jejak Depan	chassis-drivetrain	front-tread
+DIMENSI	Total Lebar	chassis-drivetrain	rear-tread
+KOPLING	Tipe	chassis-drivetrain	coupling-type
+SUMBU	Sistem Penggerak	chassis-drivetrain	drive-type
+BERAT	Berat Kosong Kendaraan	chassis-drivetrain	empty-vehicle-weight
+BERAT	Berat Total Kendaraan / Gross Vehicle Weight (GVW)	chassis-drivetrain	gross-vehicle-weight
+BERAT	Kapasitas Gardan Belakang	chassis-drivetrain	rear-axle-capacity
+BERAT	Kapasitas Gardan Depan	chassis-drivetrain	front-axle-capacity
+CHASIS & DRIVE TRAIN	Autohold	chassis-drivetrain	autohold
+CHASIS & DRIVE TRAIN	Differential Lock	chassis-drivetrain	differential-lock
+CHASIS & DRIVE TRAIN	Drive System	chassis-drivetrain	drive-type
+CHASIS & DRIVE TRAIN	Rought Terrain Mode	chassis-drivetrain	rough-terrain-mode
+DIMENSI	Dimensi Chassis	chassis-drivetrain	chassis-dimension
+DIMENSI	Front Tread	chassis-drivetrain	front-tread
+DIMENSI	Gross Vehicle Weight	chassis-drivetrain	gross-vehicle-weight
+DIMENSI	Jejak Belakang/Rear Thread (CW)	chassis-drivetrain	rear-tread
+DIMENSI	Jejak Depan/Front Thread (AW)	chassis-drivetrain	front-tread
+DIMENSI	Rear Tread	chassis-drivetrain	rear-tread
+DRIVE TRAIN	Sistem Penggerak Roda	chassis-drivetrain	drive-type
+AS	 Belakang 	chassis-drivetrain	rear-axle
+AS	 Depan 	chassis-drivetrain	front-axle
+BERAT	 Berat Chassis 	chassis-drivetrain	chassis-weight
+BERAT	 Max G.C.W 	chassis-drivetrain	gross-combination-weight
+BERAT	 Max G.V.W 	chassis-drivetrain	gross-vehicle-weight
+REM	Rem Parkir	brake	hand-brake
+REM	Rem Pelambat	brake	service-brake
+REM	Rem Utama	brake	main-brake
+BRAKE	Rem Tangan / Hand Brake	brake	hand-brake
+BRAKE	Rem kaki / Service Brake	brake	service-brake
+BRAKE	Sistem Pengereman Gas Buang  / Exhaust Brake	brake	exhaust-brake
+BRAKE	Tipe Rem	brake	type
+CHASIS & DRIVE TRAIN	Brake System Front	brake	front-system
+CHASIS & DRIVE TRAIN	Brake System Rare	brake	rear-system
+CHASIS & DRIVE TRAIN	Parking Brake	brake	hand-brake
+REM	 Rem Pembantu 	brake	service-brake
+REM	 Rem Tangan 	brake	hand-brake
+REM	 Rem kaki 	brake	main-brake
+SUMBU	Belakang	dimension	rear-wheel-distance
+SUMBU	Depan	dimension	front-wheel-distance
